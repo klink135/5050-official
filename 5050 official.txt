@@ -1,0 +1,16 @@
+********************************************************************************
+Archive Name:  5050 official__20160324_211028
+Source Folder: 5050 official
+Start Date / Time:   3/24/2016 9:10:28 PM
+Write Date / Time:   3/24/2016 9:11:43 PM
+
+Original Archive.  Seems to be working.
+
+********************************************************************************
+Archive Name:  5050 official__20160329_202344
+Source Folder: 5050 official
+Start Date / Time:   3/29/2016 8:23:44 PM
+Write Date / Time:   3/29/2016 8:24:35 PM
+
+works, used at Livonia.
+
