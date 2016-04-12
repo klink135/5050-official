@@ -22,3 +22,39 @@ Write Date / Time:   3/31/2016 6:30:49 PM
 
 experimental, fourth position and faster intake.
 
+********************************************************************************
+Archive Name:  5050 official__20160403_112342
+Source Folder: 5050 official
+Start Date / Time:   4/3/2016 11:23:42 AM
+Write Date / Time:   4/3/2016 11:24:13 AM
+
+Works for fourth position and needs some bug fixing
+
+********************************************************************************
+Archive Name:  5050 official__20160404_154438
+Source Folder: 5050 official
+Start Date / Time:   4/4/2016 3:44:38 PM
+Write Date / Time:   4/4/2016 3:45:05 PM
+
+Works with autonomouses
+
+********************************************************************************
+Archive Name:  5050 official__20160404_185116
+Source Folder: 5050 official
+Start Date / Time:   4/4/2016 6:51:16 PM
+Write Date / Time:   4/4/2016 6:52:34 PM
+
+6 possible autons 
+no fire and position 4 tested
+other 4 untested
+intake works
+
+
+********************************************************************************
+Archive Name:  5050 official__20160410_170025
+Source Folder: 5050 official
+Start Date / Time:   4/10/2016 5:00:25 PM
+Write Date / Time:   4/10/2016 5:01:14 PM
+
+Woodhaven edition. 1 auton works 5 shooters are inconsistent.
+
