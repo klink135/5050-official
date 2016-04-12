@@ -58,3 +58,11 @@ Write Date / Time:   4/10/2016 5:01:14 PM
 
 Woodhaven edition. 1 auton works 5 shooters are inconsistent.
 
+********************************************************************************
+Archive Name:  5050 official__20160412_192036
+Source Folder: 5050 official
+Start Date / Time:   4/12/2016 7:20:36 PM
+Write Date / Time:   4/12/2016 7:21:12 PM
+
+Experimental auton adjustments to make shooting work.
+
